@@ -148,6 +148,3 @@ Security and cost considerations are equally important. Use trusted software sou
 
 For current releases, supported algorithms, configuration options, and troubleshooting information, consult the official project resources.
 
-Official repository: https://github.com/NebuTech/NBMiner
-
-Official website: https://nbminer.com/
